@@ -1,0 +1,2 @@
+create guser key here.
+ssh-keygen -f gkey
