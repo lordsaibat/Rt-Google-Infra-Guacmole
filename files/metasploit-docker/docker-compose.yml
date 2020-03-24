@@ -1,0 +1,11 @@
+version: '2'
+services:
+ metasploit:
+  build: 
+    context: ./
+    dockerfile: Dockerfile
+  network_mode: "host"
+  volumes:
+   - ./:/root/testing
+  stdin_open: true
+  tty: true   
