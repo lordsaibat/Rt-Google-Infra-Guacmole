@@ -6,3 +6,6 @@ Make sure to update relevant guacamole connection, to add the host to it.
 
 To run:
 terraform init;terraform apply
+
+
+Please reference https://medium.com/@lordsaibat/building-a-self-service-cloud-resource-deployment-portal-90d1933d597d
